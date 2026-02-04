@@ -1,0 +1,7 @@
+{
+    "smtp_host": "mail.encureit.com",
+    "smtp_port": 465,
+    "smtp_use_tls": false,
+    "username": "saurabh.sachdev@encureit.com",
+    "password": "your_password_here"
+}
